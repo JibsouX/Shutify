@@ -43,3 +43,7 @@ Remember: if you are not paying for the product, **you** are the product.
 
 Install [Shutify APK](https://github.com/jibsoux/Shutify/releases/latest).
 Install [MochiCloner](https://mochicloner.com/), activate the module (checkbox in module menu). Then clone Spotify.
+
+---
+
+<sub>*For your information, if you only take the source files and try to compile the apk yourself, it won't work because I haven't committed a very important file that exposes the actual workaround technique to prevent Spotify from winning too easily against this mod. Use the [release apk](https://github.com/jibsoux/Shutify/releases/latest)*</sub>

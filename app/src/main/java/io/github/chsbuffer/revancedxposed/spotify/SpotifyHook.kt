@@ -47,16 +47,7 @@ class SpotifyHook(app: Application, lpparam: LoadPackageParam) : BaseHook(app, l
 
             val bl = arrayOf(Regex(S.R1), Regex(S.R2), Regex(S.R3))
             val d = S.D1
-            val wl = arrayOf(
-                Regex(S.P1),
-                Regex(S.P2),
-                Regex(S.P3),
-                Regex(S.P4),
-                Regex(S.P5),
-                Regex(S.P6),
-                Regex(S.P7),
-                Regex(S.P8),
-            )
+            val wl = Regex(S.WL)
 
             val e = true
 
@@ -78,7 +69,7 @@ class SpotifyHook(app: Application, lpparam: LoadPackageParam) : BaseHook(app, l
                     }
 
                     if (!urlStr.contains(d)) return
-                    if (wl.any { it.containsMatchIn(urlStr) }) return
+                    if (wl.containsMatchIn(urlStr)) return
 
                     if (e) param.throwable = java.io.IOException()
                 }
