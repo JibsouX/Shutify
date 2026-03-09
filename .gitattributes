@@ -1,0 +1,2 @@
+*.kt filter=no-debug-logs
+*.java filter=no-debug-logs
