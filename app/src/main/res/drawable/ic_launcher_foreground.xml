@@ -26,10 +26,13 @@
             M 60,28 L 76,28 Q 92,28 92,54 Q 92,80 76,80 L 60,80 Z
             M 68,36 L 68,72 L 76,72 Q 84,72 84,54 Q 84,36 76,36 Z" />
 
-        <!-- Red diagonal slash -->
+        <!-- Red X (two diagonals) -->
         <path
             android:fillColor="#E53935"
             android:pathData="M 18,90 L 26,90 L 90,18 L 82,18 Z" />
+        <path
+            android:fillColor="#E53935"
+            android:pathData="M 18,18 L 26,18 L 90,90 L 82,90 Z" />
 
     </group>
 
