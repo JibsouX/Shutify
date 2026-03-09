@@ -1,17 +1,17 @@
 <div align="center">
-  <h1>Shushify</h1>
+  <h1>Shutify</h1>
   <br>
 </div>
 
-**Shushify** is an LSPosed module for Spotify that automatically mutes audio ads as soon as they start, and restores your volume the moment your music comes back.
+**Shutify** is an LSPosed module for Spotify that blocks ads at the network level and removes ad sections from the home and browse screens.
 
 No interaction needed — it works silently in the background.
 
 ### Patches included
-- **Ad Muter** — automatically mutes audio ads and unmutes when music resumes
-- **Unlock all other Premium features** - based on v260303 of [xposed spotify](https://github.com/chsbuffer/ReVancedXposed_Spotify)
+- **Ad Blocker** —
+- **Unlock all Premium features** - based on v260303 of [xposed spotify](https://github.com/chsbuffer/ReVancedXposed_Spotify)
 
-So ads are still visible, but not audible. [Mutify](https://github.com/teekamsuthar/Mutify/) style directly in Spotify.
+Unlike [Shushify](https://github.com/jibsoux/Shushify), ads never load in the first place.
 
 ---
 
@@ -41,5 +41,5 @@ Remember: if you are not paying for the product, **you** are the product.
 
 ## 🚀 Installation (simple way)
 
-Install [Shushify APK](https://github.com/jibsoux/Shushify/releases/latest).
+Install [Shutify APK](https://github.com/jibsoux/Shutify/releases/latest).
 Install [MochiCloner](https://mochicloner.com/), activate the module (checkbox in module menu). Then clone Spotify.
