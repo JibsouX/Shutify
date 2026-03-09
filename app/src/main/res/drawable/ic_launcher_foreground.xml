@@ -32,7 +32,7 @@
             android:pathData="M 18,90 L 26,90 L 90,18 L 82,18 Z" />
         <path
             android:fillColor="#E53935"
-            android:pathData="M 18,18 L 26,18 L 90,90 L 82,90 Z" />
+            android:pathData="M 82,90 L 90,90 L 26,18 L 18,18 Z" />
 
     </group>
 
