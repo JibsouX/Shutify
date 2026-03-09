@@ -8,7 +8,7 @@
 No interaction needed — it works silently in the background.
 
 ### Patches included
-- **Ad Blocker** —
+- **Ad Blocker**
 - **Unlock all Premium features** - based on v260303 of [xposed spotify](https://github.com/chsbuffer/ReVancedXposed_Spotify)
 
 Unlike [Shushify](https://github.com/jibsoux/Shushify), ads never load in the first place.
