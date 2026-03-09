@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Scale down to 60% around center (54,54) to keep letters well inside the safe zone -->
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:scaleX="0.6"
+        android:scaleY="0.6">
+
+        <!-- Letter A (bold, white) -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="
+            M 18,80 L 34,28 L 42,28 L 58,80 L 50,80 L 46,66 L 30,66 L 26,80 Z
+            M 32,58 L 44,58 L 38,38 Z" />
+
+        <!-- Letter D (bold, white) -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="
+            M 60,28 L 76,28 Q 92,28 92,54 Q 92,80 76,80 L 60,80 Z
+            M 68,36 L 68,72 L 76,72 Q 84,72 84,54 Q 84,36 76,36 Z" />
+
+        <!-- Red diagonal slash -->
+        <path
+            android:fillColor="#E53935"
+            android:pathData="M 18,90 L 26,90 L 90,18 L 82,18 Z" />
+
+    </group>
+
+</vector>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shushify</string>
+    <string name="app_description">Mutes Spotify audio ads automatically</string>
+    <string name="app_launcher_name">Shushify</string>
+</resources>
