@@ -28,7 +28,7 @@ the server will immediately forcibly terminate the session.
 
 **Consequently:**
 
-- Audio and visual ads will now appear.
+- ~~Audio and visual ads will now appear.~~
 - Non-functional Download button now visible.
 
 Remember: if you are not paying for the product, **you** are the product.
