@@ -1,0 +1,12 @@
+name: Feature request
+description: Suggest an idea for this project
+title: "[Feature request] "
+body:
+- type: markdown
+  attributes:
+    value: |
+      **PLEASE READ BEFORE SUBMITTING**
+      This project is an Xposed port of ReVanced ([revanced.app](https://revanced.app)). Features that do not exist in the official ReVanced will not be accepted. Some apps are not patchable on their latest versions due to technical limitations.
+- type: textarea
+  attributes:
+    label: Describe the feature you'd like
