@@ -42,7 +42,7 @@ Remember: if you are not paying for the product, **you** are the product.
 ## 🚀 Installation (simple way)
 
 Install [Shutify APK](https://github.com/jibsoux/Shutify/releases/latest).
-Install [MochiCloner](https://mochicloner.com/), <u>activate the module</u> (checkbox in module menu). Then clone Spotify.
+Install [MochiCloner](https://mochicloner.com/), <u>activate the module</u> (checkbox in module menu). Then clone Spotify (**DONT CHECK THE OPTIMIZED OPTION WHEN CLONING**).
 
 ---
 
