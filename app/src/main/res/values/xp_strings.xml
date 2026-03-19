@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shutify</string>
+    <string name="app_description">Blocks Spotify ads</string>
+    <string name="app_launcher_name">Shutify</string>
+</resources>
